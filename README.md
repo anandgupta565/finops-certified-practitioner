@@ -10,10 +10,10 @@ Financial Operations follows a lifecycle of activities practiced by individuals 
 
 | Section | Time | Modules |
 | --- | --- | --- |
-| FinOps Framework | 01:00pm - 01:45am | | 
+| FinOps Framework | 01:00pm - 01:45pm | | 
 | FinOps Lifecycle | 02:00pm - 02:15pm | | 
-| FinOps Personas | 02:15pm - 02:45am | | 
-| FinOps Principals | 03:00am - 03:20am | | 
+| FinOps Personas | 02:15pm - 02:45pm | | 
+| FinOps Principals | 03:00am - 03:20pm | | 
 | FinOps Domains | 03:20pm - 04:00pm | | 
 | FinOps Tools | 04:15pm - 04:30pm | |
 | FinOps Terminology | 04:30pm - 05:00pm | |
