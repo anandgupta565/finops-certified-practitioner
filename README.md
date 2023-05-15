@@ -4,7 +4,7 @@
 * The objective of this repository is to provide an overview of the FinOps Certified Practitioner certification
 
 ## Summary
-Financial Operations follows a lifecycle(FinOps Lifecycle) of activities (FinOps Domains) practiced by individuals (FinOps Personas) who follow a set of principals (FinOps Principals) while leveraging certain tools (FinOps Tools) and speaking a particular language (FinOps Terminology)
+Financial Operations follows a lifecycle of activities practiced by individuals who follow a set of principals while leveraging certain tools and speaking a particular language.
 
 ## FinOps Certified Practitioner Schedule
 
