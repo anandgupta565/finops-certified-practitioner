@@ -6,6 +6,10 @@
 ## Summary
 * Financial Operations (FinOps) follows a lifecycle of activities, practised by individuals, who follow a set of principles while leveraging specific tools and speaking a particular language.
 
+## Attribution
+* Material sourced and unchanged from the [FinOps Framework](https://www.finops.org/introduction/what-is-finops/) by [FinOps Foundation](https://www.finops.org/about/) under the 
+
+
 ## FinOps Certified Practitioner Schedule
 
 | Section | Time | Modules |
