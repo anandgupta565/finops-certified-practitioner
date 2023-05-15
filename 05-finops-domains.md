@@ -14,4 +14,6 @@ Financial Operations (FinOps) follows a life cycle of [**activities**](https://w
 | Cloud Usage Optimization | Turn stuff OFF |
 | Organizational Alignment | Everybody start MANAGING your spend | 
 
+Next [FinOps Tools](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/06-finops-tools.md)
+
 *End of Section*

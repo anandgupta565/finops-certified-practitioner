@@ -11,4 +11,6 @@
 * FinOps Tools - *tools*
 * FinOps Terminology - *language* 
 
+Next [FinOps Life Cycle](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/02-finops-lifecycle.md)
+
 *End of Section* 

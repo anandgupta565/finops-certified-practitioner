@@ -11,4 +11,6 @@ Financial Operations (FinOps) follows a life cycle of activities practiced by in
 * A centralized team drives FinOps
 * Take advantage of the variable cost model of the cloud.
 
+Next [FinOps Domains](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/05-finops-domains.md)
+
 *End of Section*

@@ -8,4 +8,6 @@ Financial Operations (FinOps) follows a [**life cycle**](https://www.mindmeister
 * Optimize
 * Operate
 
+Next [FinOps Personas](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/03-finops-persona.md)
+
 *End of Section*

@@ -22,4 +22,6 @@ Financial Operations (FinOps) follows a life cycle of activities practiced by [*
     * Primary Goal: Ensure that all IT assets are being used to their fullest potential and that the organization is getting the best value for its investments in IT. 
     Primary Goal: Also ensuring that the organization is fully compliant with all licensing and regulatory requirements. 
 
+Next [FinOps Principals](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/04-finops-principals.md)
+
 *End of Section*
