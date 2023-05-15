@@ -1,7 +1,7 @@
 # FinOps Principals
 
 ## Summary
-Financial Operations (FinOps) follows a life cycle of activities practiced by individuals who follow a set of [**principals**](https://www.mindmeister.com/2727661067/04-finops-principles-ccovva) while leveraging certain tools and speaking a particular language.
+Financial Operations (FinOps) follows a life cycle of activities practiced by individuals who follow a set of [**principles**](https://www.mindmeister.com/2727661067/04-finops-principles-ccovva) while leveraging certain tools and speaking a particular language.
 
 ## FinOps Principals
 * Teams need to collaborate
