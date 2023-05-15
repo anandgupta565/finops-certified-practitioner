@@ -1,7 +1,7 @@
 # FinOps Domains
 
 ## Summary
-Financial Operations (FinOps) follows a lifecycle of [**activities**](https://www.mindmeister.com/2757653067/05-finops-domains) practiced by individuals who follow a set of principles while leveraging certain tools and speaking a particular language.
+* Financial Operations (FinOps) follows a lifecycle of [**activities**](https://www.mindmeister.com/2757653067/05-finops-domains) practiced by individuals who follow a set of principles while leveraging certain tools and speaking a particular language.
 
 ## FinOps Domains 
 
@@ -13,7 +13,9 @@ Financial Operations (FinOps) follows a lifecycle of [**activities**](https://ww
 | Cloud Rate Optimization | Get me a DISCOUNT | 
 | Cloud Usage Optimization | Turn stuff OFF |
 | Organizational Alignment | Everybody start MANAGING your spend | 
+<br>
 
 Next [FinOps Tools](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/06-finops-tools.md)
+<br>
 
 *End of Section*

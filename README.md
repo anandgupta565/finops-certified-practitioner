@@ -17,5 +17,6 @@
 | [FinOps Domains](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/05-finops-domains.md) | 03:20pm - 04:00pm | | 
 | [FinOps Tools](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/06-finops-tools.md) | 04:15pm - 04:30pm | |
 | [FinOps Terminology](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/07-finops-terminology.md) | 04:30pm - 05:00pm | |
+<br>
 
 Next [FinOps Framework](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/01-finops-framework.md)
