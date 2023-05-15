@@ -8,5 +8,8 @@ Financial Operations (FinOps) follows a life cycle of activities practiced by in
 
 | Vendor | Tool | 
 | --- | --- | 
+| AWS | |
+| Google | | 
+| Azure | | 
 
 *End of Section*
