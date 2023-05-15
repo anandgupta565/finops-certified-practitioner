@@ -4,6 +4,8 @@
 * Financial Operations (FinOps) follows a lifecycle of [**activities**](https://www.mindmeister.com/2757653067/05-finops-domains) practiced by individuals who follow a set of principles while leveraging certain tools and speaking a particular language.
 
 ## FinOps Domains 
+* FinOps Domains represents a sphere of activity or knowledge. 
+* Every organization adopting FinOps will perform activities in all FinOps Domains.
 
 | Domain | Description | 
 | --- | --- | 
