@@ -8,11 +8,11 @@ The FinOps journey consists of three iterative phases:
 <br>
 
 ### Inform 
-    * Visibility
-    * Allocation
-    * Benchmarking
-    * Budgeting
-    * Forecasting
+* Visibility
+* Allocation
+* Benchmarking
+* Budgeting
+* Forecasting
 <br>
 
 ### Optimize - Rates & Usage
