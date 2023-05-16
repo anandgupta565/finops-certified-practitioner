@@ -3,6 +3,8 @@
 ## Summary
 * [**Financial Operations**](https://www.mindmeister.com/2757633339/01-finops-framework) (FinOps) follows a lifecycle of activities practiced by individuals who follow a set of principles while leveraging certain tools and speaking a particular language.
 
+See this [Framework Overview diagram](https://www.finops.org/wp-content/uploads/2023/02/finops-framework-image_overview.png) now.
+
 ## FinOps Framework
 
 | Domain | | 

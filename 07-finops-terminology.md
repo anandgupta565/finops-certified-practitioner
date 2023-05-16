@@ -20,4 +20,12 @@ A glossary of FinOps concepts and related terminology used by practitioners all 
 * Amortization is a financial term that generally refers to the process of gradually reducing a debt over a specific period of time through regular payments. 
 * These payments typically consist of both principal (the original amount of debt) and interest.
 
+
+## Technology Business Management and FinOps
+
+### Technology Business Management (TBM) 
+* Technology Business Management (TBM) is a discipline that improves business outcomes by giving organizations a consistent way to translate technology investments to business value by defining the tools, processes, data, and people needed to manage the business of technology 
+    * FinOps is focused on results much more frequently than with TBM. 
+    * TBM is monthly or quarterly focused whereas FinOps collects and reviews data constantly.
+
 <br> 

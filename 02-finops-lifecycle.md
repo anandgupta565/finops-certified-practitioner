@@ -8,11 +8,13 @@ The FinOps journey consists of three iterative phases:
 <br>
 
 ### Inform 
-* Visibility
-* Allocation
-* Benchmarking
-* Budgeting
-* Forecasting
+* Due to the on-demand and elastic nature of access to cloud resources, along with variable pricing structures, it is critical to have access to timely and accurate system metrics to make appropriate, informed decisions. 
+* In this phase there are five primary goals:
+    * Visibility
+    * Allocation
+    * Benchmarking
+    * Budgeting
+    * Forecasting
 <br>
 
 ### Optimize - Rates & Usage
