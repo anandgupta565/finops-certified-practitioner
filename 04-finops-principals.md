@@ -5,6 +5,8 @@
 
 ## FinOps Principals (CCOVA)
 Understand the principles of FinOps, the core values that drive the cloud financial movement.
+FinOps Principles gives us what are called *North Stars* to help guide our activities in FinOps.
+
 * Teams need to Collaborate
 * A Centralized team drives FinOps
 * Everyone takes Ownership for their cloud usage
