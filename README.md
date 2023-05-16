@@ -13,7 +13,7 @@
 
 ## FinOps Certified Practitioner Schedule
 
-| Section | Time | Reference |
+| Section | Time | Official Reference |
 | --- | --- | --- |
 | [FinOps Framework](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/01-finops-framework.md) | 01:00pm - 01:45pm | [Framework Overview](https://www.finops.org/framework/) | 
 | [FinOps Lifecycle](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/02-finops-lifecycle.md) | 02:00pm - 02:15pm | [FinOps Phases](https://www.finops.org/framework/phases/) | 
