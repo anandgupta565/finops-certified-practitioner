@@ -17,6 +17,57 @@
 | Organizational Alignment | Everybody start MANAGING your spend | 
 <br>
 
+### Understanding Cloud Usage and Cost - What are we SPENDING
+* Measuring Unit Costs
+* Managing Shared Cost
+* Managing Anomalies
+* Forecasting
+* Data Ingestion & Normalization
+* Cost Allocation (Metadata & Hierarchy)
+* Data Analysis and Showback
+
+### Performance Tracking & Benchmarking - What is our HISTORICAL SPEND
+* Resource Utilization & Efficiency
+* Measuring Unit Costs
+* Managing Commitment Based Discounts
+* Managing Anomalies
+* Forecasting
+* Budget Management
+
+### Real-Time Decision Making - Get me a DASHBOARD
+* Measuring Unit Costs
+* Managing Anomalies
+* Establishing a FinOps Decision & Accountability Structure
+* Data Analysis and Showback
+
+### Cloud Rate Optimization - Get me a DISCOUNT
+* Intersection of Cloud FinOps & Sustainability
+* Managing Commitment Based Discounts
+    * Cloud services have different approaches that leverage spend commitment to offer discounts on services. 
+* Data Analysis and Showback
+
+### Cloud Usage Optimization - Turn stuff OFF
+* Intersection of Cloud FinOps & Sustainability
+* Workload Management & Automation
+* Resource Utilization & Efficiency
+* Onboarding Workloads
+* Data Analysis and Showback
+
+### Organizational Alignment - 	Everybody start MANAGING your spend
+* Intersection of FinOps & ITSM
+* Intersection of FinOps & Security
+* Intersection of FinOps & ITFM/TBM
+* Intersection of FinOps & ITAM/SAM
+* Cloud Policy & Governance
+* Managing Shared Cost
+* Managing Commitment Based Discounts
+* Establishing FinOps Culture
+* FinOps Education & Enablement
+* Establishing a FinOps Decision & Accountability Structure
+* Chargeback & Finance Integration
+* Budget Management
+* FinOps & Intersecting Frameworks
+
 Next [FinOps Tools](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/06-finops-tools.md)
 <br>
 

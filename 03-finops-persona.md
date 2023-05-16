@@ -17,7 +17,7 @@ The FinOps discipline covers many different personas, understand more about them
 <br>
 
 * Business/Product Owner
-    * Primary Goal: Quickly bring new products and features to market with an accurate price point.
+    * Primary Goal: Quickly bring *new products and features* to market with an accurate price point.
 <br>
 
 * Engineering and Operations
@@ -30,7 +30,10 @@ The FinOps discipline covers many different personas, understand more about them
 
 * Procurement
     * Primary Goal: Cloud platform relationship management.
-    * 
+    * Procurement should have the following objectives in a FinOps organization
+        * Negotiate the best win-win cloud contract
+        * Exercise enterprise discount / volume commitment programs 
+        * Manage relationship with Cloud platform provider
 <br>
 
 * ITAM Leader / Practitioner
