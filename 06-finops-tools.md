@@ -17,6 +17,7 @@ Each Cloud Service Provider has different tools available to help FinOps practit
 <br>
 
 ### Billing and Reporting
+* These tools are used to understand costing issues and get recommendations
 
 | Vendor | Tool | 
 | --- | --- | 
