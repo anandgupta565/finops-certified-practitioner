@@ -31,7 +31,7 @@ A glossary of FinOps concepts and related terminology used by practitioners all 
 <br> 
 
 
-Next [FinOps Maturity]
+Next [FinOps Maturity](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/08-finops-maturity.md)
 <br> 
 
 *End of Section*
