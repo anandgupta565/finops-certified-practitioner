@@ -5,6 +5,11 @@
 
 See this [Framework Overview diagram](https://www.finops.org/wp-content/uploads/2023/02/finops-framework-image_overview.png).
 
+### Agile Methodology
+If you have a software development background the FinOps Framework is similar to the Agile Methodology
+* The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement
+* Teams follow a cycle of planning, executing, and evaluating
+
 ## FinOps Framework
 
 | Domain | | 
