@@ -14,7 +14,7 @@
 
 * Executives
     * CEO - Primary Goal: Assurance that cloud investments are aligned with business objectives.
-    * CTO / CIO - Primary Goal:*Leverage technology* to give the business a market and competitive advantage.
+    * CTO / CIO - Primary Goal:*Leverage technology* to give the business a market and competitive *advantage*.
     * CFO - Primary Goal: Manage the cost of cloud utilization (among other costs across the org) and ensuring that money is wisely spent.
 <br>
 
@@ -31,7 +31,7 @@
 <br>
 
 * Procurement
-    * Primary Goal: Cloud platform relationship management.
+    * Primary Goal: *Cloud platform relationship management*
     * Procurement should have the following objectives in a FinOps organization
         * Negotiate the best win-win cloud contract
         * Exercise enterprise discount / volume commitment programs 

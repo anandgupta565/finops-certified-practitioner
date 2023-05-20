@@ -10,6 +10,11 @@ If you have a software development background the FinOps Framework is similar to
 * The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement
 * Teams follow a cycle of planning, executing, and evaluating
 
+### Cultural Shift
+* FinOps Requires a Cultural Shift At its core, FinOps is a cultural practice
+* This operating model is the most efficient way for teams to manage their cloud costs 
+* Using FinOps, teams can come together to deliver faster while gaining financial and operational control.
+
 ## FinOps Framework
 
 | Domain | | 
